@@ -5,8 +5,9 @@ This companion repository records, in a reproducible manner, all of the steps ta
 
 > **Estimating blue mussel (_Mytilus edulis_) connectivity and settlement capacity in mid-latitude fjord regions**.
 > Corrochano-Fraile A, Carboni S, Green DM, Taggart JB, Thomas PA, Dmitry A, and Bekaert M.
+> _Commun. Biol._ 7, 166 (2024)
 
-![DOI](https://img.shields.io/badge/Submitted-orange.svg)
+[![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs42003-023-05498-3-blue.svg)](https://doi.org/10.1038/s42003-023-05498-3)
 
 
 ## How to use this repository?
